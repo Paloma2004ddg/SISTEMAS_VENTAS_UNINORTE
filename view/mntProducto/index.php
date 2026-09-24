@@ -708,19 +708,20 @@
                   
                 </tr>
               </thead>
-              <tbody>
+              <!-- <tbody>
                 <tr>
-                  <td>Coca Cola de 2L</td>
-                  <td>Editar</td>
-                  <td>Eliminar</td>
+                  <td>Gaseosa Coca Cola de 2L</td>
+                  <td><button class="btn btn-primary">Editar</button></td>
+                  <td><button class="btn btn-danger">Eliminar</button></td>
                   
                 </tr>
                 <tr>
                   <td>Agua de 1L</td>
-                  <td></td>
-                  <td>Eliminar</td>
+                  <td><button type="button" class="btn btn-outline-primary btn-icon"> <div class="fa fa-edit"></div> </button></td>
+                  <td><button type="button" class="btn btn-outline-danger btn-icon"> <div class="fa fa-trash"> </div></button></td>
                   
-                </tr>
+                </tr> -->
+                
               </tbody>
             </table>
           </div><!-- table-wrapper -->
